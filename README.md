@@ -1,3 +1,3 @@
-# AlamoFireHTTPEngineKit
+# TheTVDBKit
 
-An implement of the HTTPEngineKit backed by AlamoFire
+An implementation of the TheTVDB API in Swift
