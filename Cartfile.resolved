@@ -1,0 +1,5 @@
+binary "https://www.kiazenenterprises.org:8443/json/11.2.1b11B53/HttpEngineCore" "0.0.9"
+binary "https://www.kiazenenterprises.org:8443/json/11.2b11B52/Alamofire" "4.8.2"
+binary "https://www.kiazenenterprises.org:8443/json/11.2b11B52/Cadmus" "1.0.6"
+binary "https://www.kiazenenterprises.org:8443/json/11.2b11B52/Hydra" "2.0.3"
+github "RustyKnight/AlamofireHttpEngineKit" "a41f7b85ae41ef88ddcb5cf69da34c9580b798d0"
